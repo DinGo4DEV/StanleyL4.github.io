@@ -40,7 +40,7 @@
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
-    "axios": "^0.21.0",
+    "axios": "^0.27.2",
     "bcryptjs": "^2.4.3",
     "bootstrap": "^4.5.3",
     "dropzone": "^5.7.2",
