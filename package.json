@@ -42,7 +42,7 @@
     "@material-ui/icons": "^4.9.1",
     "axios": "^0.28.1",
     "bcryptjs": "^2.4.3",
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^4.6.2",
     "dropzone": "^5.7.2",
     "hc-offcanvas-nav": "^5.0.12",
     "jquery": "^3.5.1",
