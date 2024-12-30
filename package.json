@@ -45,7 +45,7 @@
     "bootstrap": "^4.5.3",
     "dropzone": "^5.7.2",
     "hc-offcanvas-nav": "^5.0.12",
-    "jquery": "^3.5.1",
+    "jquery": "^3.7.1",
     "jquery-mask-plugin": "^1.14.16",
     "jquery-toast-plugin": "^1.3.2",
     "jsdom": "^16.4.0",
